@@ -23,5 +23,9 @@ Please make sure to update tests as appropriate.
 # donations
 if you feel that this work was useful, please consider donating here : https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LEEG7JQ38WG32&source=url
 
+# credit
+http://vjoystick.sourceforge.net/
+https://github.com/RamjetX/Logitech-G25-27-Shifter
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
